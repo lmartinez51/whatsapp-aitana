@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mini-Aitana</string>
+    <string name="app_name">Sup Aitana?</string>
     <string name="notification_listener_label">Aitana Auto-Pilot</string>
     <string name="notification_channel_name">Aitana Engine</string>
     <string name="notification_channel_desc">Background AI inference service</string>
