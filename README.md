@@ -1,6 +1,6 @@
-# MiniAitana
+# Sup Aitana?
 
-MiniAitana is an Android application that serves as an autonomous, on-device AI assistant for messaging apps (like WhatsApp). It acts as an "Auto-Pilot" that can read incoming notifications, process them locally using a Large Language Model (LLM), and automatically generate and send context-aware replies on your behalf.
+Sup Aitana? is an Android application that serves as an autonomous, on-device AI assistant for messaging apps (like WhatsApp). It acts as an "Auto-Pilot" that can read incoming notifications, process them locally using a Large Language Model (LLM), and automatically generate and send context-aware replies on your behalf.
 
 ## Features
 
@@ -14,7 +14,7 @@ MiniAitana is an Android application that serves as an autonomous, on-device AI 
 
 ## Tech Stack
 
-MiniAitana is built using modern Android development best practices and libraries:
+Sup Aitana? is built using modern Android development best practices and libraries:
 
 - **Language:** Kotlin
 - **UI Framework:** Jetpack Compose (Material 3)
